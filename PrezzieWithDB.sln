@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrezzieWithDB", "PrezzieWithDB.csproj", "{63D1C3D8-66A4-4B28-97AB-8FE4E3C73D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D1C3D8-66A4-4B28-97AB-8FE4E3C73D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D1C3D8-66A4-4B28-97AB-8FE4E3C73D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D1C3D8-66A4-4B28-97AB-8FE4E3C73D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D1C3D8-66A4-4B28-97AB-8FE4E3C73D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E862CB06-21B7-4228-B665-BBF042EA3B87}
+	EndGlobalSection
+EndGlobal
